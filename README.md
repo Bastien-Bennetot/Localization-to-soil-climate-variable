@@ -1,5 +1,7 @@
 # Localization-to-soil-climate-variable
-This is a pipeline to go from a table with localization (latitude and longitude) to soil and climatic parameter from different database
+##Purpose
+This is a pipeline to go from a table with localization (latitude and longitude) to soil and climatic parameter from different database. 
+##Step
 Please read  Pipeline_to_add_variable_from_database.pdf.
 You have to download everything and unzip the .zip in pipeline/database. 
 Following step :
