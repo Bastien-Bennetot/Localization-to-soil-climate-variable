@@ -1,0 +1,25 @@
+[general]
+creator=R package 'raster'
+created=2017-03-08 10:43:04
+[georeference]
+nrows=2160
+ncols=4320
+xmin=-180
+ymin=-90
+xmax=180
+ymax=90
+projection=NA
+[data]
+datatype=FLT8S
+byteorder=little
+nbands=12
+bandorder=BIL
+minvalue=-9.5367431640625e-06:-0.401770114898682:0:0:0:0:0:0:0:0:0:0
+maxvalue=100:100:100:7:7:7:7:7:7:7:100:100
+nodatavalue=-1.7e+308
+[legend]
+legendtype=
+values=
+color=
+[description]
+layername=FOR_2000:GRS_2000:NVG_2000:sq1:sq2:sq3:sq4:sq5:sq6:sq7:URB_2000:WAT_2000
