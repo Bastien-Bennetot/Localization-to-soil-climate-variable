@@ -5,12 +5,11 @@ This is a pipeline to go from a table with localization (latitude and longitude)
 Please read  Pipeline_to_add_variable_from_database.pdf.
 
 Following step :
-1) You have to download all github file. Please don't change folder. Put it somewhere on your computer
-2)Download and unzip in pipeline/database this file: https://drive.google.com/file/d/0B5wacU_YrTNhVGRGTUN4Rmg2ZVk/view?usp=sharing
-unzip the .zip in pipeline/database. 
-2) edit Pipeline_to_add_variable_from_database.rmd with rstudio
-3) Change setwd command in the rmd file to your path. Operation described in pdf
-4) Install packages in rstudio by using install.packages command or tools>install packages
-5) Get you data table formatted as explained in the pdf
-6) Run the .rmd with rstudio by clicking on knit.
-7) You have your processed data in processed_data.csv
+1) You have to download all pipeline using this link https://drive.google.com/file/d/0B5wacU_YrTNhbEJZczByM1BuYkU/view?usp=sharing.
+2) Unzip pipeline.zip somewhere on your computer
+3) edit Pipeline_to_add_variable_from_database.rmd with rstudio
+4) Change setwd command in the rmd file to your path. Operation described in pdf
+5) Install packages in rstudio by using install.packages command or tools>install packages
+6) Get you data table formatted as explained in the pdf
+7) Run the .rmd with rstudio by clicking on knit.
+8) You have your processed data in processed_data.csv
